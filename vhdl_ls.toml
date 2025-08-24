@@ -1,0 +1,11 @@
+[libraries]
+
+defaultlib.files = [
+  'median_filter.vhd',
+  'filter_pkg.vhd',
+  'line_buffer.vhd',
+  'control_fsm.vhd',
+  'filter_system.vhd',
+  'tb_filter_system.vhd'
+]
+
